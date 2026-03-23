@@ -1,10 +1,9 @@
-WA Auto Delete is a free, open-source Android app that automatically 
-removes messages from contacts you want to ignore, directly inside 
-WhatsApp and WhatsApp Business.
+Description: |-
 
-Simply add a contact name in the app, open a WhatsApp chat, and the 
-service silently long-presses and deletes every visible message from 
-that contact on your behalf. Works in both group chats and private chats.
+  WA Auto Delete automatically removes WhatsApp and WhatsApp Business
 
-No root access required. All processing happens entirely on your device. 
-No data is collected, transmitted, or stored anywhere outside your phone.
+  messages from contacts you specify, using Android's Accessibility
+
+  Service API. No root required. Works in group chats and private chats.
+
+  No data ever leaves your device.
