@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="accent_green">#25D366</color>
+    <color name="accent_green_dark">#128C7E</color>
+    <color name="accent_teal">#075E54</color>
+
+    <!-- Backgrounds -->
+    <color name="bg_primary">#0D1117</color>
+    <color name="card_bg">#161B22</color>
+    <color name="card_stroke">#30363D</color>
+
+    <!-- Text -->
+    <color name="text_primary">#E6EDF3</color>
+    <color name="text_secondary">#8B949E</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Status banners -->
+    <color name="status_active">#1A7F4B</color>
+    <color name="status_inactive">#B74B26</color>
+
+    <!-- State colors -->
+    <color name="color_error">#FF6B6B</color>
+    <color name="avatar_bg">#1C2A20</color>
+
+    <!-- Switch -->
+    <color name="switch_thumb_on">#25D366</color>
+    <color name="switch_thumb_off">#8B949E</color>
+    <color name="switch_track_on">#1A4A2E</color>
+    <color name="switch_track_off">#30363D</color>
+
+    <!-- Primary (used by theme) -->
+    <color name="purple_200">#25D366</color>
+    <color name="purple_500">#128C7E</color>
+    <color name="purple_700">#075E54</color>
+    <color name="teal_200">#25D366</color>
+    <color name="teal_700">#075E54</color>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent_green">#25D366</color>
+    <color name="accent_green_dark">#128C7E</color>
+    <color name="accent_teal">#075E54</color>
+    <color name="avatar_bg">#1C2A20</color>
+    <color name="bg_primary">#0D1117</color>
+    <color name="card_bg">#161B22</color>
+    <color name="card_stroke">#30363D</color>
+    <color name="color_error">#FF6B6B</color>
+    <color name="purple_200">#25D366</color>
+    <color name="purple_500">#128C7E</color>
+    <color name="purple_700">#075E54</color>
+    <color name="status_active">#1A7F4B</color>
+    <color name="status_inactive">#B74B26</color>
+    <color name="switch_thumb_off">#8B949E</color>
+    <color name="switch_thumb_on">#25D366</color>
+    <color name="switch_track_off">#30363D</color>
+    <color name="switch_track_on">#1A4A2E</color>
+    <color name="teal_200">#25D366</color>
+    <color name="teal_700">#075E54</color>
+    <color name="text_primary">#E6EDF3</color>
+    <color name="text_secondary">#8B949E</color>
+    <color name="white">#FFFFFF</color>
+    <string name="accessibility_service_description">Monitors WhatsApp to automatically delete messages from blocked contacts. No data leaves your device.</string>
+    <string name="accessibility_service_label">WA Auto Delete</string>
+    <string name="accessibility_service_summary">Auto-deletes WhatsApp messages from specified contacts</string>
+    <string name="app_name">WA Auto Delete</string>
+    <style name="Theme.WaAutoDelete" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_green</item>
+        <item name="colorPrimaryVariant">@color/accent_green_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent_teal</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:colorBackground">@color/bg_primary</item>
+        <item name="colorSurface">@color/card_bg</item>
+        <item name="colorError">@color/color_error</item>
+        <item name="android:statusBarColor">@color/bg_primary</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+        <item name="android:navigationBarColor">@color/bg_primary</item>
+    </style>
+</resources>

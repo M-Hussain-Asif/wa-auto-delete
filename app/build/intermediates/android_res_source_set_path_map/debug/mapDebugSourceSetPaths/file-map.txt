@@ -1,0 +1,8 @@
+com.waautodelete.app-pngs-0 C:\Users\Usman\Documents\WaAutoDelete\app\build\generated\res\pngs\debug
+com.waautodelete.app-resValues-1 C:\Users\Usman\Documents\WaAutoDelete\app\build\generated\res\resValues\debug
+com.waautodelete.app-updated_navigation_xml-2 C:\Users\Usman\Documents\WaAutoDelete\app\build\generated\updated_navigation_xml\debug
+com.waautodelete.app-packageDebugResources-3 C:\Users\Usman\Documents\WaAutoDelete\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.waautodelete.app-packageDebugResources-4 C:\Users\Usman\Documents\WaAutoDelete\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.waautodelete.app-debug-5 C:\Users\Usman\Documents\WaAutoDelete\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.waautodelete.app-debug-6 C:\Users\Usman\Documents\WaAutoDelete\app\src\debug\res
+com.waautodelete.app-main-7 C:\Users\Usman\Documents\WaAutoDelete\app\src\main\res
